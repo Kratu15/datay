@@ -1,0 +1,10 @@
+
+    {
+        "name": "Stripe",
+        "details": {
+            "date": "2024-09-10 08:00 AM",
+            "amount": 450.75,
+            "type": "Payment from",
+            "status": "Pending"
+        }
+    }
